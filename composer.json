@@ -1,0 +1,16 @@
+{
+	"name": "silverstripe-labs/dbsession",
+	"description": "Uses a table in the SilverStripe database as the session back-end.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe-labs", "dbsession"],
+	"authors": [
+	{
+		"name": "Sam Minnée",
+		"email": "sam@silverstripe.com"
+	}
+	],
+	"require":
+	{
+		"silverstripe/framework": "2.4"
+	}
+}
